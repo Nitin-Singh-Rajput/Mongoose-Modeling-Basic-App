@@ -1,7 +1,12 @@
-# Simple express demo
+# Mongoose Modeling Basic App
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+This project shows a simple  mongoose modeling structure,
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
+In models folder there are 2 project models- 
 
-Check out the [express documentation](https://expressjs.com/) for more information.
+1. Ecommerce
+2. Todos
+
+These 2 projects are enough to you to get a idea how mongoose modeling work.
+
+Note: There is no database use in this project.
